@@ -4,5 +4,15 @@ author: 'Javier Fernandez'
 output: html_document
 ---
 
+## My name is Javier 
+
+
+![](Javier.jpg)
+
+
+```{r}
+# I am learning data science!
+```
+
 
 
